@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds37EquxuRaJwflxBLIptg68A2KW1a2bzjy6FYF5LI1FNzItLbk/K4JwvEjcJrqtyn+FdT5ffXg2iKJhyvMn3Q==",
+  "dgSpecHash": "DrBAR9DSHwOMJskhGznvnO+mdGdmBP0kHqEKyzijeRJbOvG6e8GhnezYT/4SmF7qmocEVB3MIxZ0kESVSkVrfQ==",
   "success": true,
-  "projectFilePath": "/Users/charanski/Documents/TodoApi/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/charanski/Documents/Visual Studio Projects/TodoApi/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/charanski/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.1/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.1.nupkg.sha512",
     "/Users/charanski/.nuget/packages/microsoft.entityframeworkcore/7.0.1/microsoft.entityframeworkcore.7.0.1.nupkg.sha512",

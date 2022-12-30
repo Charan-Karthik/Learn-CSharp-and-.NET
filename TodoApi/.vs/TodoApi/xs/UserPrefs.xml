@@ -1,4 +1,18 @@
-﻿<Properties StartupConfiguration="{3EAA85B8-6C1C-4670-B792-ABFF2AB998FA}|https">
+﻿<Properties StartupConfiguration="{8AD6B74E-0ED1-4F2A-BB67-3351D06B7B40}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TodoApi FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

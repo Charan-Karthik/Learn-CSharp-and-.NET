@@ -665,11 +665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/charanski/Documents/TodoApi/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/Users/charanski/Documents/Visual Studio Projects/TodoApi/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/Users/charanski/Documents/TodoApi/TodoApi/TodoApi.csproj",
+      "projectPath": "/Users/charanski/Documents/Visual Studio Projects/TodoApi/TodoApi/TodoApi.csproj",
       "packagesPath": "/Users/charanski/.nuget/packages/",
-      "outputPath": "/Users/charanski/Documents/TodoApi/TodoApi/obj/",
+      "outputPath": "/Users/charanski/Documents/Visual Studio Projects/TodoApi/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/charanski/.nuget/NuGet/NuGet.Config"

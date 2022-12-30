@@ -1,4 +1,4 @@
-﻿// Define database context for the to-do model
+﻿// Class that coordinates with the Entity Framework and defines the database context
 
 using Microsoft.EntityFrameworkCore;
 
